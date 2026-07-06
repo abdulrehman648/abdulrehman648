@@ -13,7 +13,6 @@ I'm a full-stack developer driven by a genuine love for the craft of building so
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman648&theme=tokyo-night&hide_border=true&area=true&custom_title=Abdul%20Rehman%20Khan's%20Contribution%20Graph" width="100%" />
 </p>
-<br/>
 
 ## 📌 Featured Projects
 <table>
